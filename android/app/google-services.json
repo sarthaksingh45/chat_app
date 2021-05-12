@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971202651601",
+    "firebase_url": "https://myappdev-becaa-default-rtdb.firebaseio.com",
+    "project_id": "myappdev-becaa",
+    "storage_bucket": "myappdev-becaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971202651601:android:50abf0fe850802c4456cf0",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971202651601-22cmdd5n5lt1on22mhcaks2m22piaiq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbHCtAkR34TgchNZpPRAR7mswPzqgILQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971202651601-22cmdd5n5lt1on22mhcaks2m22piaiq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
