@@ -1,16 +1,10 @@
 # chat_app
 
-A new Flutter project.
+A new Chat App made using Flutter and Firebase.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Simple app which first takes authorization and then directly leads to the chat screen which is basically a group chat where anyone can send their own messages and it will be reflected. The main idea of this app was to learn firebase.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![plot](./Chat/Capture.PNG)
+![plot](./Chat/snap2.PNG)
